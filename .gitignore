@@ -1,0 +1,9 @@
+Packages
+.build
+package.xcworkspace
+xcuserdata
+*.xcodeproj
+DerivedData/
+.DS_Store
+db.sqlite
+!xcshareddata
